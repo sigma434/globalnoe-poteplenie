@@ -1,1 +1,4 @@
 pip install pytelegrambotapi
+pip3 install bs4
+import requests
+import pandas as pd
